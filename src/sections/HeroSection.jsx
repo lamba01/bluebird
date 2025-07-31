@@ -3,7 +3,7 @@ import heroimg from "../assets/hero.png";
 
 function HeroSection() {
   return (
-    <section className="relative flex items-center min-h-[60vh] sm:min-h-[90vh] overflow-hidden sm:mx-5 mt-12">
+    <section className="relative flex items-center min-h-[70vh] sm:min-h-[90vh] overflow-hidden sm:mx-5 mt-12">
       {/* Background image layer */}
       <div
         className="absolute inset-0 bg-cover sm:bg-contain bg-left sm:bg-right bg-no-repeat z-0"
