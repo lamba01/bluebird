@@ -78,8 +78,8 @@ function About() {
           </div>
           <div className="">
             <p className="font-semibold">Call to ask any question</p>
-            <a className="text-blue-600 underline" href="tel:+2348012345678">
-              +234-801-234-5678
+            <a className="text-blue-600 underline" href="tel:+447903332713">
+              +44-7903-332-713
             </a>
           </div>
         </div>

@@ -135,7 +135,7 @@ function Services() {
               tailored to your business needs.Reach out today for a personalized
               consultation and transparent pricing.
             </p>
-            <p className="text-2xl font-semibold pt-3">+91 1234567890</p>
+            <p className="text-2xl font-semibold pt-3">+44-7903-332-713</p>
           </div>
         </div>
       </main>

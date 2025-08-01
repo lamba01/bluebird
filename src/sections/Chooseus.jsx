@@ -16,7 +16,7 @@ function Chooseus() {
             <RiComputerLine />
           </div>
           <h4 className="text-xl font-semibold">
-            Over 10 Years of IT Experience
+            Over 5 Years of IT Experience
           </h4>
           <p>
             With more than a decade in the industry, we bring deep technical

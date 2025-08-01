@@ -11,7 +11,7 @@ function Footer() {
         <div className="max-w-6xl flex items-center gap-5 space-y-2">
           {/* <img src={footerlogo} alt="Rwatos logo" className="w-20" /> */}
           <div>
-            <h4 className="text-xl font-semibold">Bluebird consult LTD</h4>
+            <h4 className="text-xl font-semibold">Bluebird Consult LTD</h4>
             <p className="italic">
               Consulting that Delivers. Solutions that Scale.
             </p>
@@ -24,13 +24,13 @@ function Footer() {
           </p>
           <p className="text-white/70">
             <strong className="text-white">Email :</strong>
-            <a href="mailto:info@rwatosltd.com"> info@bluebirdconsult.com</a>
+            <a href="mailto:info@rwatosltd.com"> info@bluebirdconsultltd.com</a>
           </p>
           <p className="text-white/70">
             <strong className="text-white">Phone :</strong>
-            <a href="tel:+447722133636" className="underline">
+            <a href="tel:+447903332713" className="underline">
               {" "}
-              +44 07722 133636
+              +44-7903-332-713
             </a>
           </p>
         </div>
