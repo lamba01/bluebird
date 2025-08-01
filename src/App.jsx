@@ -18,11 +18,7 @@
 //       <Services />
 //       <Contact />
 //       <Footer />
-//     </>
-//   );
-// }
 
-// export default App;
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HeroSection from "./sections/HeroSection";
