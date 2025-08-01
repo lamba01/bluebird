@@ -6,9 +6,11 @@ import Chooseus from "./sections/Chooseus";
 import Services from "./sections/Services";
 import Contact from "./sections/Contact";
 import Footer from "./components/Footer";
+import RedirectWebmail from "./RedirectWeb";
 function App() {
   return (
     <>
+      <RedirectWebmail />
       <Navbar />
       <HeroSection />
       <Banner />
