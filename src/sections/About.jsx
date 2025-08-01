@@ -5,7 +5,10 @@ import { FaPhoneAlt } from "react-icons/fa";
 
 function About() {
   return (
-    <section className="flex flex-col sm:flex-row items-center justify-between px-5 sm:px-10 gap-10 sm:py-10">
+    <section
+      id="about"
+      className="flex flex-col sm:flex-row items-center justify-between px-5 sm:px-10 gap-10 sm:py-10"
+    >
       <div className="text-left my-5 w-full sm:w-2/3 space-y-2">
         <span className="text-lg text-blue-600 font-semibold">About Us</span>
         <h2 className="text-2xl sm:text-4xl font-bold capitalize">

@@ -17,9 +17,9 @@ export default function navBar() {
         </a>
         <a
           className="text-sm md:text-lg text-black font-semibold hover:underline"
-          href="#products"
+          href="#services"
         >
-          products
+          services
         </a>
         <a
           className="text-sm md:text-lg text-black font-semibold hover:underline"

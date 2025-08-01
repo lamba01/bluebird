@@ -4,10 +4,10 @@ import { RiComputerLine } from "react-icons/ri";
 function Chooseus() {
   return (
     <section className="text-center mt-12 px-5 sm:px-10 sm:py-10">
-      <span className="text-lg text-blue-600 font-semibold capitalize">
+      <span className="text-lg text-blue-600 font-semibold capitalize ">
         why choose us
       </span>
-      <h2 className="text-2xl sm:text-4xl font-bold capitalize">
+      <h2 className="text-2xl sm:text-4xl font-bold capitalize text-center pb-5">
         we are here to grow your business exponentially
       </h2>
       <div className="grid sm:grid-cols-2 gap-x-0 text-gray-800 space-y-5 space-x-5 text-start py-5">
