@@ -24,7 +24,10 @@ function Footer() {
           </p>
           <p className="text-white/70">
             <strong className="text-white">Email :</strong>
-            <a href="mailto:info@rwatosltd.com"> info@bluebirdconsultltd.com</a>
+            <a href="mailto:info@bluebirdconsultltd.com">
+              {" "}
+              info@bluebirdconsultltd.com
+            </a>
           </p>
           <p className="text-white/70">
             <strong className="text-white">Phone :</strong>

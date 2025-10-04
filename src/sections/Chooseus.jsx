@@ -8,57 +8,57 @@ function Chooseus() {
         why choose us
       </span>
       <h2 className="text-2xl sm:text-4xl font-bold capitalize text-center pb-5">
-        we are here to grow your business exponentially
+        trusted partner for scalable software and system solutions
       </h2>
       <div className="grid sm:grid-cols-2 gap-x-0 text-gray-800 space-y-5 space-x-5 text-start py-5">
         <div>
           <div className="flex items-center space-x-4 w-fit bg-blue-600 text-white p-4 rounded-lg mb-3">
             <RiComputerLine />
           </div>
-          <h4 className="text-xl font-semibold">
-            Over 5 Years of IT Experience
-          </h4>
+          <h4 className="text-xl font-semibold">Proven Industry Expertise</h4>
           <p>
-            With more than a decade in the industry, we bring deep technical
-            expertise and proven strategies that help businesses grow faster,
-            smarter, and more securely.
+            Our team combines years of software engineering and system
+            integration experience to deliver reliable, enterprise-grade
+            solutions that align with your strategic goals.
           </p>
         </div>
+
+        <div>
+          <div className="flex items-center space-x-4 w-fit bg-blue-600 text-white p-4 rounded-lg mb-3">
+            <RiComputerLine />
+          </div>
+          <h4 className="text-xl font-semibold">Dedicated Client Support</h4>
+          <p>
+            We provide continuous technical assistance and proactive monitoring
+            to ensure your systems operate efficiently with minimal downtime.
+          </p>
+        </div>
+
         <div>
           <div className="flex items-center space-x-4 w-fit bg-blue-600 text-white p-4 rounded-lg mb-3">
             <RiComputerLine />
           </div>
           <h4 className="text-xl font-semibold">
-            24/7 Support & Fast Response
+            Flexible & Transparent Pricing
           </h4>
           <p>
-            Our team is always on standby. Whether it's day or night, we ensure
-            you get quick resolutions to keep your business running smoothly
-            without costly downtime.
+            Our pricing models are designed to meet the needs of organizations
+            of all sizes, ensuring clear value and predictable costs without
+            hidden charges.
           </p>
         </div>
+
         <div>
           <div className="flex items-center space-x-4 w-fit bg-blue-600 text-white p-4 rounded-lg mb-3">
             <RiComputerLine />
           </div>
           <h4 className="text-xl font-semibold">
-            Affordable Plans for All Business Sizes
+            Customized System Architecture
           </h4>
           <p>
-            From startups to large enterprises, we offer flexible pricing
-            without compromising quality, making top-tier IT services accessible
-            to everyone.
-          </p>
-        </div>
-        <div>
-          <div className="flex items-center space-x-4 w-fit bg-blue-600 text-white p-4 rounded-lg mb-3">
-            <RiComputerLine />
-          </div>
-          <h4 className="text-xl font-semibold">Tailored Solutions</h4>
-          <p>
-            We don’t believe in generic fixes. Every business is unique, and our
-            solutions are carefully crafted to align with your specific goals,
-            workflows, and budget.
+            Every business has unique requirements. We design, build, and
+            implement tailored SaaS and system architectures that scale with
+            your operations.
           </p>
         </div>
       </div>

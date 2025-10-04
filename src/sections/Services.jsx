@@ -1,7 +1,6 @@
 import React from "react";
 import { MdPhonelinkSetup } from "react-icons/md";
-import { FaCloudDownloadAlt, FaDatabase } from "react-icons/fa";
-import { FaMicrochip } from "react-icons/fa";
+import { FaCloudDownloadAlt, FaDatabase, FaMicrochip } from "react-icons/fa";
 
 function Services() {
   return (
@@ -10,9 +9,9 @@ function Services() {
         our services
       </span>
       <h2 className="text-2xl sm:text-4xl font-bold capitalize">
-        custom IT solutions for your business
+        comprehensive software and system solutions
       </h2>
-      <main className=" py-10">
+      <main className="py-10">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {/* Card 1 */}
           <div className="bg-[#EAF9FF] p-6 rounded-md flex items-center flex-col">
@@ -30,11 +29,11 @@ function Services() {
               </div>
             </div>
             <h4 className="text-lg font-semibold mb-2">
-              IT Infrastructure Setup
+              System Architecture & Implementation
             </h4>
             <p>
-              We plan and implement networks, servers, and hardware that scale
-              with your business.
+              We design, deploy, and manage robust system infrastructures that
+              support business continuity and long-term scalability.
             </p>
           </div>
 
@@ -54,11 +53,11 @@ function Services() {
               </div>
             </div>
             <h4 className="text-lg font-semibold mb-2">
-              Cloud Migration & Support
+              Cloud Migration & Infrastructure Support
             </h4>
             <p>
-              We plan and implement networks, servers, and hardware that scale
-              with your business.
+              Our experts handle seamless migration to secure cloud platforms
+              while ensuring minimal disruption to your operations.
             </p>
           </div>
 
@@ -77,10 +76,12 @@ function Services() {
                 />
               </div>
             </div>
-            <h4 className="text-lg font-semibold mb-2">Managed IT Services</h4>
+            <h4 className="text-lg font-semibold mb-2">
+              Managed Software Services
+            </h4>
             <p>
-              We handle your IT operations, so you can focus on growing your
-              business.
+              We provide continuous monitoring, maintenance, and updates for
+              your SaaS applications and enterprise systems.
             </p>
           </div>
 
@@ -98,11 +99,11 @@ function Services() {
               </div>
             </div>
             <h4 className="text-lg font-semibold mb-2">
-              Software & Tools Advisory
+              Technology Consulting
             </h4>
             <p>
-              We help you choose the right software and tools to optimize your
-              business processes.
+              We help organizations evaluate, adopt, and integrate the right
+              technologies to improve performance and operational efficiency.
             </p>
           </div>
 
@@ -119,21 +120,22 @@ function Services() {
                 <FaDatabase style={{ color: "white", fontSize: "1.5rem" }} />
               </div>
             </div>
-            <h4 className="text-lg font-semibold mb-2">Data Analytics</h4>
+            <h4 className="text-lg font-semibold mb-2">Data & Insights</h4>
             <p>
-              We help you choose the right software and tools to optimize your
-              business processes.
+              We implement intelligent analytics and reporting tools to help you
+              make data-driven decisions with confidence.
             </p>
           </div>
 
           {/* Card 6 */}
           <div className="bg-blue-600 p-6 rounded-md flex items-center flex-col text-white">
-            <h4 className="text-lg font-semibold mb-2">Call us for a quote</h4>
+            <h4 className="text-lg font-semibold mb-2">
+              Talk to Our Solutions Team
+            </h4>
             <p>
-              Whether you're a startup or an established enterprise, we’ll guide
-              you in selecting the most effective software and IT solutions
-              tailored to your business needs.Reach out today for a personalized
-              consultation and transparent pricing.
+              Discuss your business objectives with our experts. We’ll assess
+              your needs and recommend a tailored software or system strategy
+              aligned with your goals.
             </p>
             <p className="text-2xl font-semibold pt-3">+44-7903-332-713</p>
           </div>

@@ -12,15 +12,16 @@ function About() {
       <div className="text-left my-5 w-full sm:w-2/3 space-y-2">
         <span className="text-lg text-blue-600 font-semibold">About Us</span>
         <h2 className="text-2xl sm:text-4xl font-bold capitalize">
-          the best IT solution with over 5 years of experience
+          delivering reliable software systems for modern enterprises
         </h2>
         <p className="text-gray-800">
-          we’re a team of seasoned IT professionals passionate about helping
-          businesses grow through smart tech solutions. Whether you're a startup
-          building your infrastructure or an enterprise looking to optimize
-          systems, we’ve got your back.
+          We are a technology-driven company specializing in the design,
+          development, and management of scalable SaaS platforms and enterprise
+          software systems. Our mission is to empower organizations with
+          reliable digital solutions that enhance efficiency, streamline
+          operations, and drive sustainable growth.
         </p>
-        <ul className=" grid grid-cols-2 gap-x-0 text-gray-800 space-y-0 space-x-0">
+        <ul className="grid grid-cols-2 gap-x-0 text-gray-800 space-y-0 space-x-0">
           <li>
             <HiOutlineCheck
               style={{
@@ -30,7 +31,7 @@ function About() {
                 marginRight: "5px",
               }}
             />
-            award winning
+            enterprise-grade solutions
           </li>
           <li>
             <HiOutlineCheck
@@ -41,7 +42,7 @@ function About() {
                 marginRight: "5px",
               }}
             />
-            24/7 support
+            dedicated client support
           </li>
           <li>
             <HiOutlineCheck
@@ -52,7 +53,7 @@ function About() {
                 marginRight: "5px",
               }}
             />
-            professional staff
+            skilled and certified team
           </li>
           <li>
             <HiOutlineCheck
@@ -63,7 +64,7 @@ function About() {
                 marginRight: "5px",
               }}
             />
-            fair prices
+            transparent project delivery
           </li>
         </ul>
         <div className="flex items-start space-x-4 my-5">
@@ -76,16 +77,16 @@ function About() {
               }}
             />
           </div>
-          <div className="">
-            <p className="font-semibold">Call to ask any question</p>
+          <div>
+            <p className="font-semibold">Call to speak with our team</p>
             <a className="text-blue-600 underline" href="tel:+447903332713">
               +44-7903-332-713
             </a>
           </div>
         </div>
-        <button className="bg-blue-600 text-white px-5 py-2 rounded cursor-pointer hover:bg-blue-700 transition-colors">
-          Request A Quote
-        </button>
+        {/* <button className="bg-blue-600 text-white px-5 py-2 rounded cursor-pointer hover:bg-blue-700 transition-colors">
+          Schedule a Consultation
+        </button> */}
       </div>
       <div className="w-full sm:w-1/3 flex justify-center h-full">
         <img src={aboutImg} alt="About Us" />
